@@ -42,7 +42,5 @@ background:#ffffff;
     border: 5px #430f0f solid;
     margin:5px;
 }
-body{background-image:url("https://img.freepik.com/free-vector/vector-polka-background-with-small-dots_1017-13972.jpg");}
-body{
-  cursor:url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Light_blue_star.svg/1024px-Light_blue_star.svg.png");
-}
+body{background-image:url("https://img.freepik.com/free-vector/vector-polka-background-with-small-dots_1017-13972.jpg");
+    cursor:grabbing;}
