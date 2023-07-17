@@ -1,0 +1,19 @@
+h1{ color:#2e35ff;
+    text-align:center;
+}
+h1{text-align:center;
+ font-family: 'Pangolin', cursive;
+  background:#ffffff;
+  padding:30px;
+  border-style:groove;
+  border-width:10px;
+  border-color:#4d0000;
+  margin:50px;
+  opacity:70px;
+  text-shadow: 1px 1px 2px black, 0 0 25px #8c8c8c, 0 0 5px #7a7a7a;
+  }
+h2{color:#462041;
+font-family: 'Pangolin', cursive;
+background:#ffffff;
+ padding:10px; }
+body{background-image:url("https://wallsneedlove.com/cdn/shop/products/w0199_1s_Black-Star-Night-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1604083309");}
