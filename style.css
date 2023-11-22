@@ -43,4 +43,7 @@ background:#ffffff;
     margin:5px;
 }
 body{background-image:url("https://img.freepik.com/free-vector/vector-polka-background-with-small-dots_1017-13972.jpg");
-    cursor:grabbing;}
+cursor:help;}
+h2:hover {
+    background-color: #aebaf4;
+}

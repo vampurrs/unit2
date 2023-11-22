@@ -9,11 +9,28 @@ h1{text-align:center;
   opacity:70px;
   text-shadow: 1px 1px 2px black, 0 0 25px #8c8c8c, 0 0 5px #7a7a7a;
   }
-h2{color:#462041;
-font-family: 'Pangolin', cursive;
-background:#ffffff;
- padding:10px;
+h2{text-align:center;
+ font-family: 'Pangolin', cursive;
+  background:#ffffff;
+  padding:30px;
+  border-style:groove;
+  border-width:10px;
+  border-color:#4d0000;
+  margin:50px;
+  opacity:70px;
+  text-shadow: 1px 1px 2px black, 0 0 25px #8c8c8c, 0 0 5px #7a7a7a;
   }
 
 body{background-image:url("https://breezecrafts.com/cdn/shop/products/il_fullxfull.924117094_g76y_1024x.jpg?v=1571726522");
-     cursor:grabbing;}
+     cursor:help;}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h4{color:#462041;
+font-family: 'Pangolin', cursive;
+background:#ffffff;
+ padding:10px; }
